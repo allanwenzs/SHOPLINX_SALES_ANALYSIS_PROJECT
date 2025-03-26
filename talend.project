@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_t6MP0AidEfCGy-_HBJk46w" label="Shoplinx_Sales_Analysis_Project" description="" language="java" technicalLabel="SHOPLINX_SALES_ANALYSIS_PROJECT" local="true" author="_t6MP0QidEfCGy-_HBJk46w" productVersion="Talend Open Studio for Big Data-8.0.1.20211109_1610" itemsRelationVersion="1.3">
+    <migrationTask xmi:id="_t6vpcAidEfCGy-_HBJk46w" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_t6MP0QidEfCGy-_HBJk46w" login="allwenzs@nairosoft.com" password="D41D8CD98F00B204E9800998ECF8427E"/>
+</xmi:XMI>
